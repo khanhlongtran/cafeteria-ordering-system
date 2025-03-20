@@ -1,0 +1,9 @@
+[submodule "CafeteriaOrdering"]
+	path = CafeteriaOrdering
+	url = https://github.com/khanhlongtran/cafeteria-ordering-prn231.git
+[submodule "CafeteriaOrderingApp"]
+	path = CafeteriaOrderingApp
+	url = https://github.com/khanhlongtran/CafeteriaOrderingApp.git
+[submodule "recommend_meals_machine_learning"]
+	path = recommend_meals_machine_learning
+	url = https://github.com/khanhlongtran/recommend_meals_machine_learning.git
